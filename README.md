@@ -4,3 +4,13 @@ Program for voice assistant written in python language to perform different task
 Use – To help visually impaired people with computer as they can do anything with their voice only and also it helps people in normal day routine as it is an AI based voice assistant which learns the user’s behavior and aid them in future.
 
 My Role – My role was to write down the code and implement the whole program and connect in to different webs servers like- Wolframalpha, open weather map, etc and add different commands that use might use and then I converted the python program into a single executable software to make it easy to use and easy to share. I also tested the whole program. 
+# Hardware Specification
+Pentium IV or higher, (PIV-300GHz recommended)
+256 MB RAM
+1 gb hard free drive space
+
+# Software Specification
+->Python 3.9 (prefer latest version).
+->Any Integrated Development Environment for Python.
+-> Web Brower – Chrome.
+->Operating System: Windows XP / Windows7/ Windows Vista/Windows8/Windows10.
